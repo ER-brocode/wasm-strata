@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+Cargo.lock
+*.cwasm
+.DS_Store
+Thumbs.db
